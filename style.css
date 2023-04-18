@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+table {
+    width: 60%;
+    margin: auto;
+    font-size: 1.5em;
+    border-collapse: collapse;
+}
+
+th, td {
+    border-bottom: 1px solid rgb(231, 161, 184);
+    text-align: center;
+    padding: 8px;
+}
+
+.odd-row {
+    background-color: #ecd8c4;
+}
+
+.even-row {
+    background-color: #d1daf1;
+}
